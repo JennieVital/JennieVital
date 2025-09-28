@@ -18,8 +18,7 @@ Bachelor of Science in Information Technology - New Era University
 [Project Management 101: A Young Professional’s Guide](https://asklexph.com/certificates)
    
 ## Skillsets
-- Frontend
-- Backend
+- Full Stack Web Developer
 - UI/UX
   
   
