@@ -15,7 +15,7 @@ Bachelor of Science in Information Technology - New Era University
 
 [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A236A0E15249CFC689C2A55D050D34A5DFCF9B3626BE0A5D3FD47921ACB2A67A)
 
-[Project Management 101: A Young Professional’s Guide](file:///C:/Users/Jennie%20Viev%20Vital/Downloads/project-management-101-a-young-professional-s-guide.pdf)
+[Project Management 101: A Young Professional’s Guide](https://asklexph.com/certificates)
    
 ## Skillsets
 - Frontend
