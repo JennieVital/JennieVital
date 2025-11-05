@@ -19,6 +19,6 @@ Bachelor of Science in Information Technology - New Era University
    
 ## Skillsets
 - Full Stack Web Developer
-- UI/UX
+- UI/UX Design
   
   
