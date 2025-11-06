@@ -21,5 +21,8 @@ Bachelor of Science in Information Technology - New Era University
 - Full Stack Web Developer
 - UI/UX Design
 - Collaboration
+- Problem solving
+- Hosting domains
+- Prototyping
   
   
