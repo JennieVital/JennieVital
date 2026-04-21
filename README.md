@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jennie Viev Raagas Vital! 
-### BSIT Student @ New Era University | Aspiring Full-Stack Developer & Cloud Enthusiast
+### BSIT Student at New Era University | Aspiring Full-Stack Developer 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Oracle-OCI--Certified-red?style=for-the-badge&logo=oracle" />
@@ -10,10 +10,10 @@
 ---
 
 ### 🚀 About Me
-I am a passionate 1st-year IT student focused on building high-impact, scalable web applications. I bridge the gap between creative design and robust backend logic. Currently diving deep into **Cloud Infrastructure** and **AI Foundations**.
+I am a passionate IT focused on building high-impact, scalable web applications. I bridge the gap between creative design and robust backend logic. Currently diving deep into **Cloud Infrastructure** and **AI Foundations**.
 
-- 🔭 I’m currently working on **Personal Portfolio & Web Projects**
-- 🌱 I’m currently learning **React.js & Advanced OCI**
+- 🔭 I’m currently working on **Freelancer & Web Projects**
+- 🌱 I’m currently learning **Advanced CyberSecurity**
 - ⚡ Fun fact: I finished 3 Oracle Cloud Certifications in my first year!
 
 ---
@@ -36,12 +36,6 @@ I am a passionate 1st-year IT student focused on building high-impact, scalable 
 
 ---
 
-### 📊 GitHub Stats
-![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jennie-viev-vital-a8294028b/?skipRedirect=true)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](jennieviev.vital@gmail.com)
