@@ -2,8 +2,8 @@
 ### BSIT Student at New Era University | Aspiring Full-Stack Developer 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Oracle-OCI--Certified-red?style=for-the-badge&logo=oracle" />
-  <img src="https://img.shields.io/badge/Database-SQL%20Expert-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Oracle--Certified-red?style=for-the-badge&logo=oracle" />
+  <img src="https://img.shields.io/badge/Database-SQL%20-blue?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Frontend-UI%2FUX%20Design-orange?style=for-the-badge&logo=figma" />
 </p>
 
@@ -12,9 +12,8 @@
 ### 🚀 About Me
 I am a passionate IT focused on building high-impact, scalable web applications. I bridge the gap between creative design and robust backend logic. Currently diving deep into **Cloud Infrastructure** and **AI Foundations**.
 
-- 🔭 I’m currently working on **Freelancer & Web Projects**
-- 🌱 I’m currently learning **Advanced CyberSecurity**
-- ⚡ Fun fact: I finished 3 Oracle Cloud Certifications in my first year!
+-  I’m currently working on **Freelancer & Web Projects**
+-  I’m currently learning **Advanced CyberSecurity**
 
 ---
 
@@ -29,10 +28,10 @@ I am a passionate IT focused on building high-impact, scalable web applications.
 ---
 
 ### 📜 Featured Certifications
-* ☁️ **OCI 2024 AI Foundations Associate**
-* 📊 **OCI 2024 Data Foundations Associate**
-* 🏗️ **OCI 2024 Foundations Associate**
-* 🗄️ **SQL and Relational Databases 101 (IBM)**
+*  **OCI 2024 AI Foundations Associate**
+*  **OCI 2024 Data Foundations Associate**
+*  **OCI 2024 Foundations Associate**
+*  **SQL and Relational Databases 101 (IBM)**
 
 ---
 
