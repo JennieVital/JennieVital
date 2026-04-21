@@ -1,28 +1,47 @@
-# My Profile
+# 👋 Hi, I'm Jennie Viev Raagas Vital! 
+### BSIT Student @ New Era University | Aspiring Full-Stack Developer & Cloud Enthusiast
 
-## Name
-Jennie Viev R. Vital
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-OCI--Certified-red?style=for-the-badge&logo=oracle" />
+  <img src="https://img.shields.io/badge/Database-SQL%20Expert-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Frontend-UI%2FUX%20Design-orange?style=for-the-badge&logo=figma" />
+</p>
 
-## Education
-Bachelor of Science in Information Technology - New Era University
+---
 
-## Certifications
-[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e03e041d00aa4e3a93bdcdf3a4f51631)
+### 🚀 About Me
+I am a passionate 1st-year IT student focused on building high-impact, scalable web applications. I bridge the gap between creative design and robust backend logic. Currently diving deep into **Cloud Infrastructure** and **AI Foundations**.
 
-[Oracle CLoud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=30C340ECDDFFD61F4702EF74B940479F162399DDB6052E2137E65B2ED3BFF1FE)
+- 🔭 I’m currently working on **Personal Portfolio & Web Projects**
+- 🌱 I’m currently learning **React.js & Advanced OCI**
+- ⚡ Fun fact: I finished 3 Oracle Cloud Certifications in my first year!
 
-[Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=30C340ECDDFFD61F4702EF74B940479FC362DA7A79E6E61621C92256B9AC1C72)
+---
 
-[Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A236A0E15249CFC689C2A55D050D34A5DFCF9B3626BE0A5D3FD47921ACB2A67A)
+### 💻 Tech Stack
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
+| **Backend** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) |
+| **Design/Tools** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code) |
 
-[Project Management 101: A Young Professional’s Guide](https://asklexph.com/certificates)
-   
-## Skillsets
-- Full Stack Web Developer
-- UI/UX Design
-- Collaboration
-- Problem solving
-- Hosting domains
-- Prototyping
-  
-  
+---
+
+### 📜 Featured Certifications
+* ☁️ **OCI 2024 AI Foundations Associate**
+* 📊 **OCI 2024 Data Foundations Associate**
+* 🏗️ **OCI 2024 Foundations Associate**
+* 🗄️ **SQL and Relational Databases 101 (IBM)**
+
+---
+
+### 📊 GitHub Stats
+![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your@email.com)
