@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jennie Viev Raagas Vital! 
-### BSIT Student at New Era University | Aspiring Full-Stack Developer 
+### BSIT Student at New Era University | Developer 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Oracle--Certified-red?style=for-the-badge&logo=oracle" />
@@ -9,15 +9,15 @@
 
 ---
 
-### 🚀 About Me
-I am a passionate IT focused on building high-impact, scalable web applications. I bridge the gap between creative design and robust backend logic. Currently diving deep into **Cloud Infrastructure** and **AI Foundations**.
+### About Me
+I am a passionate IT focused on building high-impact, scalable web applications. 
 
 -  I’m currently working on **Freelancer & Web Projects**
--  I’m currently learning **Advanced CyberSecurity**
+-  I’m currently learning **Advanced Basic Networking and Basic CyberSecurity**
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
@@ -27,7 +27,7 @@ I am a passionate IT focused on building high-impact, scalable web applications.
 
 ---
 
-### 📜 Featured Certifications
+### Featured Certifications
 *  **OCI 2024 AI Foundations Associate**
 *  **OCI 2024 Data Foundations Associate**
 *  **OCI 2024 Foundations Associate**
@@ -35,6 +35,6 @@ I am a passionate IT focused on building high-impact, scalable web applications.
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jennie-viev-vital-a8294028b/?skipRedirect=true)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](jennieviev.vital@gmail.com)
