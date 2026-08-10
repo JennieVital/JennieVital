@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jennie Viev Raagas Vital! 
+# Hi, I'm Jennie Viev Raagas Vital! 
 ### BSIT Student at New Era University | Developer 
 
 <p align="left">
@@ -32,6 +32,7 @@ I am a passionate IT focused on building high-impact, scalable web applications.
 *  **OCI 2024 Data Foundations Associate**
 *  **OCI 2024 Foundations Associate**
 *  **SQL and Relational Databases 101 (IBM)**
+*  **Introduction to Critical Infrastructure Protection**
 
 ---
 
