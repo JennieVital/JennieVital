@@ -33,6 +33,7 @@ I am a passionate IT focused on building high-impact, scalable web applications.
 *  **OCI 2024 Foundations Associate**
 *  **SQL and Relational Databases 101 (IBM)**
 *  **Introduction to Critical Infrastructure Protection**
+*  **Python 101 for Data Science**
 
 ---
 
